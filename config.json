@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailfncrypt",
+        "uuid": 35613200,
+        "checksum": "y7yw0g"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
